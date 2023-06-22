@@ -2,6 +2,7 @@
 
 In this project, I have to build a dashboard to meet the demand from the sales manager. The outline of the project as below:
 1. Business requirements
+
 Assume that this is an email from a sales manager:
 
  _ I hope you are doing well. We need to improve our internet sales reports and want to move from static reports to visual dashboards.
