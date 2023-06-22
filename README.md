@@ -19,7 +19,7 @@ Then I create a user story as below:
   - Sales representatives a detailed OVERVIEW OF INTERNET SALES PER PRODUCT can follow up my PRODUCT THAT BUY THE MOST and who we can sell to. They need a power bi dashboard which allows me to fILTER DATA FOR EACH PRODUCT.
 
   - Sales manager a dashboard overview of internet sales follow SALES OVER TIME AGAINST BUDGET. They need a power bi dashboard with graphs and KPIS COMPARING against the budget.
-  - 
+    
 2. Data description
 
 This is a dataset from Microsoft which is about Internet Sales. It includes dimension and fact tables about sales, customers, products and transactions from 2019 to 2021.
